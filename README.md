@@ -3,6 +3,11 @@
 
 A aplicação consiste no cadastro de desenvolvedores utilizando a api do Github para obter algumas informações destes. E também utiliza funcionalidades do browser para obter dados de geolocalização dos devs cadastrados. Os dados da localização dos devs são usados no app mobile.
 
+### Aplicação Web
+![](https://github.com/Jeffer5504/DevRadar/blob/master/DevRadar.gif)
+
+### Aplicação Mobile
+![](https://github.com/Jeffer5504/DevRadar/blob/master/Mobile.gif)
 # Funcionamento da API do github
 
 A funcionalidade é bem simples basta solicitar na url abaixo no local do username o seu username que como resultado terar um JSON com os dados como podemos ver no no exemplo do [link](https://api.github.com/users/Jeffer5504).
